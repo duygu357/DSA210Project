@@ -6,7 +6,7 @@ In recent years, materials science has gained significant attention due to rapid
 ## Project Motivation
 Through this project, I aim to make a small contribution in the field of mechanical properties—specifically the elastic modulus of metals. Mechanical properties are critical in designing durable structures, and metals are often the first choice when we think of strength and resilience. The elastic modulus, in particular, is a core parameter for numerous strength calculations, so focusing on this property makes practical sense for both theoretical and real-world applications.
 
-# Modeling an Elastic Modulus Estimation Model
+### "Modeling an Elastic Modulus Estimation Model"
 This project consists of four main phases:
 
 ## 1.Data Collection
