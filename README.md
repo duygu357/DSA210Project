@@ -53,11 +53,10 @@ https://www.lendingtree.com/insurance/brand-incidents-study/
 ## Tools and Technologies
 The project will be implemented using:
 
-Python: The primary programming language for data analysis and modeling.
-Pandas & GeoPandas: For data manipulation, preprocessing, and geospatial data handling.
-Matplotlib & Seaborn: For creating visualizations like scatter plots, heatmaps, and geographic maps.
-SciPy & Statsmodels: For hypothesis testing and statistical analysis.
-Scikit-Learn: For machine learning tasks including regression, clustering, and predictive modeling.
+- Python: The primary programming language for data analysis and modeling.
+- Pandas & GeoPandas: For data manipulation, preprocessing, and geospatial data handling.
+- Matplotlib & Seaborn: For creating visualizations like scatter plots, heatmaps, and geographic maps.
+- SciPy: For hypothesis testing and statistical analysis.
 
 ## Analysis Plan
 - Data Collection & Preprocessing:
