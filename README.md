@@ -1,4 +1,4 @@
-## Understanding Consumer Behaviour of EV car buyers
+# Understanding Consumer Behaviour of EV car buyers
 
 
 ## Project Overview
@@ -89,7 +89,7 @@ It can be constructed a scatter plot with the Air Pollution Index on the x-axis 
 Or by segregating regions into those with high and low densities of charging stations, it can be generated comparative visualizations. This analysis will help determine whether areas with more charging points experience higher EV sales, potentially reflecting enhanced consumer confidence due to improved accessibility.
 
 ## Conclusion
-By the end of this project, the goal is to provide actionable insights that answer critical questions such as:
+By the end of this project, the goal is to provide insights that answer these research questions such as:
 
 - Which geographic and performance related factors most influence EV adoption?
 - How do charging infrastructure and air pollution impact consumer decision-making?
